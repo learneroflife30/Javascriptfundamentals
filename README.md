@@ -1,2 +1,2 @@
 # Javascriptfundamentals
-This repository will contain all fundamentals needed for automation testing.
+This repository contains all fundamentals needed for automation testing.
