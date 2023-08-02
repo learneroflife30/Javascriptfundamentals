@@ -46,11 +46,12 @@ console.log(typeof city);
 var person = "Kumar";
 console.log(person);
 
-// We can reassign value with let or var keyword
+// We can reassign/reinitialize variable with let or var keyword
 person = "Sharma";
 console.log(person);
 
 // We can use const keyword when we know value of variable won't be changed
+// We cannot redeclare it, reinitialize it
 const personalityofperson = "honest";
 console.log(personalityofperson);
 
