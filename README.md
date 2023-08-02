@@ -1,2 +1,1 @@
-# Javascriptfundamentals
-This repository contains all fundamentals needed for automation testing.
+Here in this respository, i have tried to cover all the fundamentals of Javascript programming language which are crucial to know for Automation testing and Web development.
